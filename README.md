@@ -1,1 +1,1 @@
-HYPERLINK("http://www.google.com/","Google")
+HYPERLINK("http://www.google.com/")
