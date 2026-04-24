@@ -1,2 +1,1 @@
-# googhyper
-googhyper
+HYPERLINK("http://www.google.com/","Google")
